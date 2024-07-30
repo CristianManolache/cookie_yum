@@ -23,4 +23,10 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rubocop', '~> 1.65'
   spec.add_development_dependency 'rubocop-performance', '~> 1.21.1'
   spec.add_development_dependency 'rubocop-rspec', '~> 3.0.3'
+
+  spec.metadata = {
+    'source_code_uri' => 'https://github.com/CristianManolache/cookie_yum',
+    'changelog_uri' => 'https://github.com/CristianManolache/cookie_yum/blob/master/CHANGELOG.md',
+    'rubygems_mfa_required' => 'true'
+  }
 end
