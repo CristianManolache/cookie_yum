@@ -3,7 +3,7 @@
 require File.expand_path('lib/cookieyum_rails/version', __dir__)
 
 Gem::Specification.new do |spec|
-  spec.name = 'cookie_yum'
+  spec.name = 'cookieyum_rails'
   spec.version = CookieyumRails::VERSION
   spec.authors = ['Manolache Laurentiu Cristian']
   spec.email = ['mlcristian@outlook.com']

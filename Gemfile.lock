@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cookie_yum (1.0.0)
+    cookieyum_rails (1.0.0)
       rubyzip (~> 2.3.2)
 
 GEM
@@ -47,7 +47,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  cookie_yum!
+  cookieyum_rails!
   rubocop (~> 1.65)
   rubocop-performance (~> 1.21.1)
   rubocop-rspec (~> 3.0.3)
