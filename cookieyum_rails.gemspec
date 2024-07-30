@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
 
   spec.extra_rdoc_files = ['README.md']
 
+  spec.add_dependency 'ruby-openai'
   spec.add_dependency 'rubyzip', '~> 2.3.2'
   spec.add_development_dependency 'rubocop', '~> 1.65'
   spec.add_development_dependency 'rubocop-performance', '~> 1.21.1'
